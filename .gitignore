@@ -1,0 +1,18 @@
+# Ignore everything
+*
+
+# Allow Python files
+!*.py
+
+# Allow CSV files
+!*.csv
+
+!corpus
+
+!*.txt
+
+# Allow README
+!README.md
+
+# Allow .gitignore itself
+!.gitignore
